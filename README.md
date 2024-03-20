@@ -35,7 +35,7 @@ And i learned on my own
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ciflire&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false&order=1" height="240" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ciflire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=catppuccin_mocha&hide_border=false&order=2" height="240" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ciflire&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ciflire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=catppuccin_mocha&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
 # 🚧 WIP
